@@ -1,0 +1,118 @@
+[
+  {
+    "id": "hoja_1",
+    "g1": {
+      "titulo": "Desayunos",
+      "img": "assets/foto-desayuno.jpg",
+      "items": [
+        { "item": "Calentado especial: Arroz, arepa, queso, proteína y chocolate", "precio": 12000 },
+        { "item": "Proteína: Chorizo, chicharrón o hígado encebollado", "precio": 0 },
+        { "item": "Típico: Arroz, arepa, queso, huevo al gusto y chocolate", "precio": 10000 },
+        { "item": "Tradicional: Arepa, queso, huevo y chocolate", "precio": 7500 },
+        { "item": "Huevos: pericos, revueltos, rancheros, fritos, omelet o poché", "precio": 0 },
+        { "item": "Adicional: Porción de huevo", "precio": 1500 }
+      ]
+    },
+    "g2": {
+      "titulo": "Almuerzo Ejecutivo",
+      "img": "assets/foto-almuerzo.jpg",
+      "items": [
+        { "item": "Sazón de casa (sopa + seco + bebida)", "precio": 15000 },
+        { "item": "Entrada: Sopa o crema del día", "precio": 0 },
+        { "item": "Proteína: Variedad diaria de res, cerdo o pollo", "precio": 0 },
+        { "item": "Bandeja: Arroz, ensalada y principio", "precio": 0 },
+        { "item": "Acompaña: Tajada o papas a la francesa + limonada o jugo de fruta", "precio": 0 },
+        { "item": "¡Mejóralo! Cambio proteina a Costilla BBQ, Colombina BBQ,  o Chuleta (Porción)", "precio": 3000 }
+      ]
+    },
+    "g3": {
+      "titulo": "Especiales",
+      "img": "assets/foto-especiales.jpg",
+      "items": [
+        { "item": "Pescados: Mojarra frita o Trucha (asada/marinera)", "precio": 26500 },
+        { "item": "Criollos: Lengua en salsa", "precio": 16000 }
+      ]
+    }
+  },
+  {
+    "id": "hoja_2",
+    "g1": {
+      "titulo": "Comidas Rápidas",
+      "img": "assets/foto-rapidas.jpg",
+      "items": [
+        { "item": "Tacos Mexicanos (4 unidades)", "precio": 17000 },
+        { "item": "Hamburguesa clásica", "precio": 14500 },
+        { "item": "Perras calientes", "precio": 11000 },
+        { "item": "Grande: Burro o Emparedado", "precio": 10000 },
+        { "item": "Ligero: Taco (unidad) o Sándwich", "precio": 5000 }
+      ]
+    },
+    "g2": {
+      "titulo": "Carnes a la Carta",
+      "img": "assets/foto-carnes.jpg",
+      "items": [
+        { "item": "Brasas: Churrasco o Costillas BBQ", "precio": 26500 },
+        { "item": "Filetes: Res o cerdo a la plancha", "precio": 26500 },
+        { "item": "Pollo: Pechuga (plancha/gratinada)", "precio": 26500 },
+        { "item": "Crocantes: Chuleta de cerdo o pollo", "precio": 26500 }
+      ]
+    },
+    "g3": {
+      "titulo": "Pasabocas",
+      "img": "assets/foto-pasabocas.jpg",
+      "items": [
+        { "item": "Fritos de sal: Papa rellena o Arepa de carne", "precio": 4000 },
+        { "item": "Empanadas", "precio": 2000 },
+        { "item": "Buñuelos", "precio": 1500 }
+      ]
+    }
+  },
+  {
+    "id": "hoja_3",
+    "g1": {
+      "titulo": "Bebidas Frías",
+      "img": "assets/foto-frias.jpg",
+      "items": [
+        { "item": "Milo", "precio": 6000 },
+        { "item": "Jugos naturales (Agua/Leche)", "precio": 6000 },
+        { "item": "Kumis con cuca", "precio": 4000 },
+        { "item": "Kumis casero", "precio": 3000 },
+        { "item": "Gaseosas (Personal/litro)", "precio": 0 }
+      ]
+    },
+    "g2": {
+      "titulo": "Cafetería",
+      "img": "assets/foto-calientes.jpg",
+      "items": [
+        { "item": "Milo caliente (Grande)", "precio": 4000 },
+        { "item": "Milo caliente (Pequeño)", "precio": 2000 },
+        { "item": "Tradición: Tinto, Pintadito o Aromática", "precio": 1200 }
+      ]
+    },
+    "g3": {
+      "titulo": "Eventos",
+      "img": "assets/foto-eventos.jpg",
+      "items": [
+        { "item": "Celebraciones especiales", "precio": 0 },
+        { "item": "Reserva con anticipación", "precio": 0 }
+      ]
+    }
+  },
+  {
+    "id": "hoja_cierre",
+    "logo_img": "assets/logo-placeholder.png",
+    "boton_texto": "INFORMACIÓN PARA RESERVAS",
+    "contactos": [
+      { "cargo": "Administrador", "nombre": "NORBERTO GIL", "celular": "3216886940" },
+      { "cargo": "Chef", "nombre": "JAMES IND'FO", "celular": "3138099639" }
+    ],
+    "direccion": {
+      "linea1": "Dirección: Sector Colegio, frente a la Institución Universitaria Oriente de Caldas",
+      "linea2": "CRA 5 # 06-51"
+    },
+    "domicilio_texto": "Servicio a domicilio",
+    "agradecimiento_texto": "Gracias por elegirnos"
+  }
+]
+
+
