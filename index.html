@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +8,24 @@
 </head>
 <body>
     <div id="app-container"></div>
+    <dialog id="item-dialog" class="modal">
+        <form method="dialog" class="modal-dialog" aria-labelledby="modal-title">
+            <button type="submit" class="modal-close" aria-label="Cerrar detalles">✕</button>
+            <div class="modal-content">
+                <h2 class="modal-title" id="modal-title"></h2>
+                <p class="modal-prep" id="modal-prep"></p>
+                <div class="modal-section" id="modal-ingredients-section">
+                    <div class="modal-section-title">Ingredientes</div>
+                    <ul class="modal-ingredients" id="modal-ingredients"></ul>
+                </div>
+                <div class="modal-carousel" id="modal-carousel">
+                    <button type="button" class="carousel-btn prev" aria-label="Imagen anterior">‹</button>
+                    <div class="carousel-track" id="carousel-track"></div>
+                    <button type="button" class="carousel-btn next" aria-label="Siguiente imagen">›</button>
+                </div>
+            </div>
+        </form>
+    </dialog>
     <script src="app.js"></script>
 </body>
 </html>
