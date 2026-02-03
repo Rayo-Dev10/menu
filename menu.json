@@ -51,10 +51,11 @@
       "titulo": "Carnes a la Carta",
       "img": "assets/foto-carnes.jpg",
       "items": [
-        { "item": "Brasas: Churrasco o Costillas BBQ", "precio": 26500 },
-        { "item": "Filetes: Res o cerdo a la plancha", "precio": 26500 },
-        { "item": "Pollo: Pechuga (plancha/gratinada)", "precio": 26500 },
-        { "item": "Crocantes: Chuleta de cerdo o pollo", "precio": 26500 }
+        { "item": "Brasas: Churrasco", "precio": 26500 },
+{ "item": "De la casa: Costillas BBQ o Colombinas BBQ", "precio": 26500 },
+{ "item": "Pollo: Pechuga (plancha/gratinada)", "precio": 26500 },
+{ "item": "Crocantes: Chuleta de cerdo o pollo", "precio": 26500 }
+
       ]
     },
     "g3": {
@@ -114,5 +115,6 @@
     "agradecimiento_texto": "Gracias por elegirnos"
   }
 ]
+
 
 
